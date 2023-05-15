@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/pwa-test/static/js/main.eeffd970.js",
+    "static/media/avocado.jpg": "/pwa-test/static/media/avocado.6562daa2790d4a4a2718.jpg",
+    "static/media/testObject.jpg": "/pwa-test/static/media/testObject.ad06ff8b83e48db8eea0.jpg",
+    "static/media/driver2.jpg": "/pwa-test/static/media/driver2.ee1a192cfe1ad8d569c3.jpg",
+    "service-worker.js": "/pwa-test/service-worker.js",
+    "static/media/marker.png": "/pwa-test/static/media/marker.464a7de326d4a6914d63.png",
+    "static/media/logo.png": "/pwa-test/static/media/logo.d2cf0b5eba1dd1b976a3.png",
+    "static/media/ProfilePic.svg": "/pwa-test/static/media/ProfilePic.d064afe2c51520d2759f29cf90810945.svg",
+    "static/media/driver3.jpg": "/pwa-test/static/media/driver3.79d011fbcdb2fc426779.jpg",
+    "static/media/driver1.jpg": "/pwa-test/static/media/driver1.bbdddaa4c570840bf121.jpg",
+    "static/media/clip.svg": "/pwa-test/static/media/clip.502128bef0daa8cdcb9bfdc0ed4d20a8.svg",
+    "static/media/pinkBox.png": "/pwa-test/static/media/pinkBox.98306328ab6b21f8f7c7.png",
+    "index.html": "/pwa-test/index.html",
+    "main.eeffd970.js.map": "/pwa-test/static/js/main.eeffd970.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eeffd970.js"
+  ]
+}
